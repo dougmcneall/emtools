@@ -17,3 +17,6 @@ A matrix normalized to \link{0-1}
 \description{
 Normalize columns of a matrix onto a \link{0-1} basis
 }
+\examples{
+normalize(X)
+}

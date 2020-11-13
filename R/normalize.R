@@ -6,7 +6,7 @@
 #' @return A matrix normalized to [0-1]
 #' @export
 #'
-#' @examples
+#' @examples normalize(X)
 normalize <- function(X, wrt = NULL){
   # Normalize a matrix to [0,1] on a per-column basis.
   # Normalize relative to matrix wrt if included.
