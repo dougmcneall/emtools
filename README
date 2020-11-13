@@ -1,0 +1,7 @@
+emtools
+
+An R package for working with emulators
+
+Doug McNeall
+
+install using devtools::install_github('dougmcneall/emtools')
