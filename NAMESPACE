@@ -2,4 +2,8 @@
 
 export(normalize)
 export(oaat_design)
+export(samp_beta)
+export(samp_norm)
+export(samp_unif)
+export(taat_design)
 export(unnormalize)
